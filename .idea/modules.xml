@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TrafficPoliceBookKPAndroid.iml" filepath="$PROJECT_DIR$/TrafficPoliceBookKPAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficPoliceKPK-AndroidModule.iml" filepath="$PROJECT_DIR$/TrafficPoliceKPK-AndroidModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
